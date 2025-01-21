@@ -21,10 +21,12 @@ Watch the UR5 robot in action as it grasps and places objects onto a tray:
     pip install pybullet  
 
 ### 2. Run the Simulation
+- This will initialize the simulation, and the robot will begin performing the object grasping and placement task.
 - Launch the program using the following command:
     ```bash
     python main.py
-    This will initialize the simulation, and the robot will begin performing the object grasping and placement task.
+
+  
 
 ### 3. PyBullet GUI
 - Once the simulation is running, you can use the PyBullet GUI to observe the robot’s actions in real-time. The interface allows you to track the movement of the robotic arm, gripper, and cubes as they interact within the environment.
