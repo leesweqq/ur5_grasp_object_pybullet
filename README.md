@@ -43,5 +43,6 @@ Watch the UR5 robot in action as it grasps and places objects onto a tray:
 ## Resources & References
 
 - **PyBullet**: PyBullet is a physics engine for simulating robots and their environments. You can find more details and documentation on the official website of [PyBullet](https://pybullet.org/).
+- Model: https://github.com/ElectronicElephant/pybullet_ur5_robotiq
 
 
